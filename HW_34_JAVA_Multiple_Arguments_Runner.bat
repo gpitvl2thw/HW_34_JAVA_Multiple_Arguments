@@ -1,1 +1,0 @@
-HW_34_JAVA_Multiple_Arguments.bat gpitvl2thw HW_34_JAVA_Multiple_Arguments 1.4 core.HtmlUnit "http://www.learn2test.net|learn2test.net" "http://www.learn2test.net|blah" "http://www.alegro.com|alegro.com" "http://www.alegro.com|abc"
